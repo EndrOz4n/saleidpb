@@ -1,0 +1,226 @@
+<title></title>
+<style type="text/css"><!--
+a:visited {
+	color: #9900CC;
+}
+a:hover {
+	color: #00FFFF;
+}
+.style1 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF9900;
+}
+.style2 {color: #00FF00}
+.style3 {color: #FF0000}
+.style4 {color: #FF9900}
+-->
+</style>
+<!-- Code script ตัวเลือก --><script type="text/javascript">// <![CDATA[
+function MM_popupMsg(msg) { //v1.0
+  alert(msg);
+}
+// ]]></script><!-- จบCode script ตัวเลือก --><!-- เริ่มต้น script Tmtopup --><script type="text/javascript" src="https://www.tmtopup.com/topup/3rdTopup.php?uid=17025"></script><!-- จบ script Tmtopup -->
+<div>
+<p align="center" class="style1"><strong><span style="font-size: 22px;"><span style="color: #ffa500;">.:: ข่าวอัพเดท ::.</span></span></strong><br />
+<br />
+<span style="font-size: 12px;"><span style="color: #ff0000;"><strong>***<span style="font-size:14px;">2</span></strong></span></span><span style="color:#FF0000;"><strong>/2/2015&nbsp;***ระบบ ItemCodeงาน PBUW 2014 ปรกติ</strong></span><br />
+<span style="font-size: 12px;"><span style="color: #ff0000;"><strong>***</strong></span></span><strong style="color: rgb(255, 0, 0); font-size: 12px; line-height: 20.7999992370605px; text-align: -webkit-center;">ระบบ ID กำลังปรับปรุง&nbsp;คลิกซื้อได้แต่หากไม่ได้รับ ID ทางเราไม่รับผิดชอบ เนื่องจากจะไม่มีข้อมูลขึ้นที่ระบบ</strong><br />
+<span style="font-size: 12px;"><span style="color: #ff0000;"><strong>-สมัครและ Login IDก่อนทำการซื้อทุกครั้ง สงสัยตรงไหนสอบถาม </strong></span></span><br />
+<br />
+<span style="font-size: 14px;"><span style="color: #ffa500;">1.</span><span style="color: #ff0000;">27/11/57</span></span> <span style="color:#00FF00;"><span class="style2">เปิดระบบสั่งซื้อ&nbsp;ItemCode</span><span class="userContent"> - POINT BLANK ULTIMATE WAR 2014 -</span></span> <a href="http://www.saleidpb.myreadyweb.com/page-22652.html">คลิกสั่ง</a><br />
+<span style="font-size: 14px;"><span style="color: #ffa500;">2.</span><span style="color: #ff0000;">1/8/57</span><span style="color: #00ff00;"> เพิ่มโปรแกรมช่วยเล่น </span><span style="color: #ffff00;"><span class="st"><em>SPECIAL FORCE</em>&nbsp; </span><strong>HACK EXP + Auto teleport</strong> <strong>&amp; SF Chicken</strong></span>&nbsp; <a href="http://saleidpb.myreadyweb.com/page-22637.html">คลิกดูรายละเอียด</a></span></p>
+
+<p align="center"><span style="color: #ffa500;"><span class="style4">3.</span></span> <span style="color: #ff0000;"><span class="style3">24/3/2557</span></span><span style="color: #00ff00;"> <span class="style2">เปิดระบบสั่งจอง ItemCodePB งานGSL2014</span></span> <a href="http://saleidpb.myreadyweb.com/page-22652.html">คลิก</a></p>
+
+<p align="center"><span style="color: #ffa500;">4.</span> <span style="color: #ff0000;">16/3/2557</span> <span style="color: #00ff00;">ตอนนี้ระบบเติมเงินซื้อ IDปรกติ ระบบItemCode PBงานล่าสุดใช้ได้ปรกติค่ะ</span></p>
+
+<p align="center"><span style="color: #00ff00;">สมัครIDก่อนทำการซื้อทุกครั้ง</span></p>
+
+<p align="center"><span style="color: #ffa500;">5.</span><span style="color: #ff0000;"> 15/1/2557</span> <span style="color: #00ff00;">ลง ItemCode PB จากงาน MOL</span> <a href="http://saleidpb.myreadyweb.com/product/detail-177103.html">คลิก</a></p>
+
+<p align="center"><span style="color: #ffa500;">6.</span> <span style="color: #ff0000;">9/2/2557</span> <span style="color: #00ff00;">จำหน่าย ID เกมส์ Dragon Nest Lv.60 ของครบทั้งตัว</span></p>
+
+<p align="center"><span style="color: #00ff00;">มีสัตว์ขี่ + สัตว์เลี้ยง ของ +6 ทั้งตัว อาวุธ +9 ขายยก Ap เปลี่ยนข้อมูลได้หมด มี ID เดียวใน Ap</span></p>
+
+<p align="center"><strong><span style="color: #00ff00;">เซิฟเวอร์ : White Dragon</span></strong> <a href="http://saleidpb.myreadyweb.com/product/detail-185042.html">คลิก</a></p>
+
+<p align="center"><span style="color: #ffa500;">7.</span> <span style="color: #ff0000;">1/1/2557</span> <span style="color: #00ff00;">ตอนนี้Promotionปีใหม่ ท่านใดซื้อID,Codeหรือโปรแกรมช่วยเล่นเกิน500บาท สุ่มรับItemCode</span></p>
+
+<p align="center"><span style="color: #ffa500;">8.</span><span style="color: #00ff00;">อัพเดทโปรแกรมช่วยเล่น &#39;โปรกด Auto PB สำหรับไก่</span></p>
+</div>
+
+<p align="center">&nbsp;</p>
+
+<p><!-- Code โฆษณา Yengoลำดับที่3 --></p>
+<script charset="windows-1251" type="text/javascript" src="http://www.yengo.com/show.cgi?adp=61269"></script>
+
+<p><!-- จบโฆษณา Yengoลำดับที่3 --></p>
+
+<p>&nbsp;</p>
+
+<p align="center"><span style="font-size: 16px;"><span style="color: #ff0000;"><span style="text-decoration: underline;">ก่อนทำการซื้อโปรดอ่านกฏและข้อตกลงทางเว็บก่อนทุกครั้ง</span></span></span>&nbsp;&nbsp; <strong><a href="#กฏเว็บ">คลิกอ่าน</a></strong></p>
+
+<p align="center"><span style="color: #ff0000;"><span style="font-size: 20px;"><span style="text-decoration: underline;"><em><strong>&gt;&gt;&gt; เว็บนี้รองรับ Browser Firefox เท่านั้น</strong>&nbsp; &lt;&lt;&lt;</em></span></span></span>&nbsp;&nbsp;&nbsp;<a href="http://www.linkbucks.com/6b3c0805"><img border="0" height="70" longdesc="http://i.imgur.com/hZWt7LB.jpg" src="http://i.imgur.com/hZWt7LB.jpg" width="70" /></a>&nbsp;&nbsp;<a href="http://www.linkbucks.com/6b3c0805">คลิกโหลด</a></p>
+
+<p align="center"><br />
+<span style="color: #ffd700;"><span style="font-size: 18px;"><span style="font-size: 22px;"><strong>ติดต่อทาง MSN</strong></span></span></span><br />
+<span style="font-size: 18px;"><strong><span style="color: #00ffff;">MSN :</span></strong></span> <strong><span style="font-size: 18px;"><span style="color: #00ff00;">nb-boy3@hotmail.com</span></span></strong></p>
+
+<p align="center"><strong><span style="font-size: 18px;"><span style="color: #00ffff;">Status : </span></span></strong><img height="25" longdesc="http://i.imgur.com/pc5AWG6.png" src="http://i.imgur.com/pc5AWG6.png" width="25" /></p>
+
+<p align="center"><span style="font-size: 18px;"><strong><span style="color: #00ffff;">FaceBook&nbsp; &gt;&gt;&gt;</span></strong></span>&nbsp; <a href="http://www.facebook.com/toota.pbsf"><img border="0" height="73" longdesc="http://i.imgur.com/eZA5P2i.jpg" src="http://i.imgur.com/eZA5P2i.jpg" width="73" /></a></p>
+
+<p align="center"><strong><span style="font-size: 18px;"><span style="color: #ff0000;">~ เรื่องการซื้อID Code หรือปั๊มยศ ก็เติมเงิน ~</span></span></strong></p>
+
+<p align="center"><strong><span style="font-size: 18px;"><span style="color: #ff0000;">~ แล้วใช้งานได้ตามปรกตินะค่ะ ~</span></span></strong></p>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><strong><span style="font-size: 18px;"><span style="color: #00ffff;">- ขอบคุณที่ใช้บริการค่ะ -</span></span></strong></p>
+
+<div><!-- Code script ตัวเลือก --><!-- ตัวเลือก3เพรช -->
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 3 เพชร 1จุด')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/Jgt9rB3.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(300)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/product/detail-176729.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <!-- ตัวเลือก1ดอก2จุด --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดอก 4จุดปืนมาตฐานครบ ฉายาขาด 7 ช่อง ปืนแรร์มี M1887 SL HK69')" type="radio" value="radiobutton" /></label> <img src="http://i.imgur.com/ZdjAuM0.jpg" style="width: 31px; height: 31px;" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(300)</strong></span> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="https://googledrive.com/host/0B_CGsYpQSmtkc1htakNsQmJDOTg/1%E0%B8%94%E0%B8%AD%E0%B8%814%E0%B8%88%E0%B8%B8%E0%B8%94.html" onclick="window.open(this.href, '14300', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no'); return false;">คลิกดู</a>&nbsp;<img alt="new" src="http://i.imgur.com/Zg9UgsA.gif" style="width: 43px; height: 12px;" />&nbsp;&nbsp;</p>
+<!-- ตัวเลือก1ดอก1จุด+ซองเงิน -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดอก 1จุด มีซองเงิน+พกบอม')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/uNrSxb6.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(350)</strong></span><label> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/article/category-94095.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดอก 2จุดมี BARRETT M82A1+พกบอม')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/MyekdgU.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(600)</strong></span> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/article/category-94096.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="http://i.imgur.com/jfairMR.gif" style="width: 30px; height: 12px;" />&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก1ดอกทอง -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดอกทองปืนมาตฐานครบ')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/TM3JAw9.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp; <span style="color: #ff0000;"><strong>(500)</strong></span> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <a href="http://saleidpb.myreadyweb.com/article/category-94102.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; <input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดอกทอง')" type="radio" value="radiobutton" /> <img height="31" src="http://i.imgur.com/TM3JAw9.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(390)</strong></span> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="https://googledrive.com/host/0B_CGsYpQSmtkc1htakNsQmJDOTg/1%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87.html" onclick="window.open(this.href, '1390', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no'); return false;">คลิกดู</a> &nbsp;&nbsp;&nbsp;<img alt="new" src="http://i.imgur.com/Zg9UgsA.gif" style="width: 43px; height: 12px;" /></p>
+<!-- ตัวเลือก2ดอก1จุด -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2 ดอก 1จุดมีBARRETT M82A1+พกบอม')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/vGYUh4B.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(800)</strong></span> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <a href="http://saleidpb.myreadyweb.com/article/category-94097.html">คลิกดู</a>&nbsp;&nbsp; <img alt="" src="http://i.imgur.com/jfairMR.gif" style="width: 30px; height: 12px;" />&nbsp;&nbsp; &nbsp; &nbsp; <!-- ตัวเลือก2ดอก1จุด --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1ดอก4จุดมี Barrett M200 JackHammer')" type="radio" value="radiobutton" /></label> <img src="http://i.imgur.com/ZdjAuM0.jpg" style="width: 31px; height: 31px;" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(800)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <a href="https://googledrive.com/host/0B_CGsYpQSmtkc1htakNsQmJDOTg/IDPB%201%E0%B8%94%E0%B8%AD%E0%B8%814%E0%B8%88%E0%B8%B8%E0%B8%94%20VIDEO.html" onclick="window.open(this.href, '14M200BarrettJamHammer', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no'); return false;">คลิกดู</a> &nbsp;&nbsp;&nbsp; <img alt="new" src="http://i.imgur.com/Zg9UgsA.gif" style="width: 43px; height: 12px;" /></p>
+<!-- ตัวเลือก2ดอก3จุด -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2 ดอก 3จุด')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/gqSO5MW.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(400)</strong></span> <label> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/article/category-94103.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </label> <!-- ตัวเลือก2ดอก3จุด --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2ดอก 3จุด')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/gqSO5MW.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <strong><span style="color: #ff0000;">(500)</span> </strong>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="#">คลิกดู</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก รอ UP -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2 ดอก 1จุดรอ UP')" type="radio" value="radiobutton" /> </label> <img src="http://i.imgur.com/fKyvAvg.jpg" style="width: 31px; height: 31px;" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(4,500)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="http://saleidpb.myreadyweb.com/product/detail-183323.html">คลิกดู</a>&nbsp; <img alt="" src="http://i.imgur.com/Zg9UgsA.gif" style="width: 43px; height: 12px;" />&nbsp;&nbsp;&nbsp; <!-- ตัวเลือก2ดอก4จุดCHEYTAC M200 --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2ดอก4จุดมCHEYTAC M200ี')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/02RjA8H.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <strong><span style="color: #ff0000;">(1000)</span> </strong>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="#">คลิกดู</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก3 ดอก 2จุดมีBARRETT+CHEYTAC M200 -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 3 ดอก 2จุดมีBARRETT+CHEYTAC M200')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/CyDhUs2.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span><!-- ตัวเลือก3ดอก3จุด+CHEYTAC M200 --> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href="http://saleidpb.myreadyweb.com/product/detail-183172.html">คลิกดู</a> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 3ดอก 3จุดมีCHEYTAC M200')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/giVRFiv.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <a href="http://saleidpb.myreadyweb.com/article/category-94100.html">คลิกดู</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก3ดอก3จุด -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 3 ดอก 3จุด')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/giVRFiv.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="#">รอ UP&nbsp;</a>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- 1ดาว --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดาว')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/iSO4bMj.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(2000)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a href="http://www.youtube.com/watch?v=zZPJOFrl6Uc" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=yes,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no'); return false;">คลิกดู</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก1ดาวCHEYTAC M200 -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดาวมีCHEYTAC M200')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/iSO4bMj.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span> <label> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;<a href="http://saleidpb.myreadyweb.com/article/category-94101.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </label> <!-- 1ดาว --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 1 ดาว')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/iSO4bMj.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <a href="#">รอ UP</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก2ดาว -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 2 ดาวรอ UP')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/zZAGG3V.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(1000)</strong></span> <label> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href="#">รอ UP </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; </label> <!-- 3 ดาวมีบาเรต+M200 DSR-1 ของแรร์อีกมากมาย --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 3 ดาวมีบาเรต+M200 DSR-1 ของแรร์อีกมากมาย ')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/SxBjZf5.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(3000)</strong></span> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/article/category-94099.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- ตัวเลือก 4 ดาว -->
+
+<p style="text-align: center;"><label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 4 ดาวรอ UP')" type="radio" value="radiobutton" /> </label> <img height="31" src="http://i.imgur.com/FW1Xubp.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(2000)</strong></span> <label> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </label><a href="#">รอ UP</a> &nbsp;<label> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </label> <!-- ตัวเลือก5 ดาวมีบาเรต+M200 ปืนครบ ฉายาครบเทพทรู --> <label><input name="radiobutton" onclick="MM_popupMsg('คุณเลือก - 5 ดาวมีบาเรต+M200 ปืนครบ ฉายาครบเทพทรู')" type="radio" value="radiobutton" /></label> <img height="31" src="http://i.imgur.com/BRnjqUp.jpg" width="31" /><img height="31" longdesc="http://i.imgur.com/yinqFqV.gif" src="http://i.imgur.com/yinqFqV.gif" width="31" /> &nbsp;&nbsp; <span style="color: #ff0000;"><strong>(2500)</strong></span> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="http://saleidpb.myreadyweb.com/product/detail-176732.html">คลิกดู</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+
+<p style="text-align: center;"><br />
+<span style="color: #000000;"><strong><span style="background-color: #ff0000;">ID ไหนที่ขึ้นว่ารอ UP สามารถซื้อได้ตามปรกติน่ะค่ะโดยทุก ID ที่จำหน่ายจะมีปืนมาตฐานครบ</span><br />
+<span style="background-color: #ff0000;">ปืนแรร์แบบถาวร 3-4 กระบอก / 1ID โดยของแรร์จะมีดังนี้แบบสุ่มกันไป</span></strong><br />
+<strong><span style="background-color: #ff0000;">มีบาเรต+M200 Sni VSK94 DSR-1 AK47 F.C ซองSpas-15 Msc JackHammer พกUzi 9mm HK 69</span></strong><br />
+<strong><span style="background-color: #ff0000;">ยังไม่ได้กรอกข้อมูล Step 2 สามารถเปลี่ยนแปลงข้อมูลได้ค่ะ</span></strong></span></p>
+
+<p style="text-align: center;"><img height="123" longdesc="http://i.imgur.com/PmLgh1p.gif" src="http://i.imgur.com/PmLgh1p.gif" width="313" /></p>
+
+<div>
+<p style="text-align: center;"><strong><!-- Code script Tmtopup --> </strong><strong><span style="color: #ff0000;"><span style="font-size: 16px;"><span style="text-decoration: underline;">รองรับ <em>Browser Firefox</em> เท่านั้น</span></span></span></strong></p>
+
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>รหัสบัตรเงินสดทรูมันนี่ (14 หลัก)</strong></span> <input id="tmn_password" maxlength="14" name="tmn_password" type="text" /></p>
+
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>ชื่อ FaceBook&nbsp;</strong></span>&nbsp; <input id="ref1" maxlength="25" name="ref1" type="text" /></p>
+
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>เบอร์โทรศัพท์</strong></span>&nbsp;&nbsp; <input id="ref2" maxlength="15" name="ref2" type="text" /></p>
+
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>E-Mail&nbsp;</strong></span>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <input id="ref3" maxlength="20" name="ref3" type="text" /></p>
+
+<p style="text-align: center;"><input onclick="submit_tmnc()" type="button" value="คลิกซื้อ ID !" /></p>
+</div>
+
+<div>
+<p align="center"><img alt="" src="http://i.imgur.com/JHmTUjo.gif" style="width: 28px; height: 11px;" /><strong><span style="color: #00ffff;">- ตัวละครทุกตัวสามารถเปลี่ยนหรัสได้ทุกตัว</span></strong></p>
+
+<p align="center"><span style="color: #ffff00;"><strong>เมื่อคุณคลิกซื้อระบบจะส่งไปให้ใน E-mail ของคุณ</strong></span></p>
+
+<p align="center"><span style="color: #ffff00;"><strong>กรุณาระบุ E-mail ให้ถูกต้องด้วยนะค่ะ</strong></span></p>
+
+<p align="center"><strong><span style="color: #ff0000;"><span style="text-decoration: underline;">วิธีเติม</span></span> <span style="color: #00ff00;">กรณีบัตรไม่ลงตัว 300 1ใบ-3001ใบจะได้600 บาท ได้แล้วระบุบ E-mail เดิมลง</span></strong></p>
+
+<p align="center"><span style="color: #ffa500;"><strong>ไปทั้ง2ครั้ง แล้วระบบจะส่งไปทาง E-mail</strong></span></p>
+
+<p align="center"><strong><span style="color: #ff0000;">:: อ่าน ::</span> <span style="color: #ff8c00;">วิธีการซื้อไอดีPB</span> <a href="http://saleidpb.myreadyweb.com/page-22747.html">คลิกอ่าน</a></strong></p>
+</div>
+
+<p>&nbsp;</p>
+
+<div>
+<p align="center"><strong><span style="color: #ff0000;"><a id="กฏเว็บ" name="กฏเว็บ"></a>ขอโทษด้วยนะค่ะ บัตรบางบัตรเติมมาอาจจะไม่ผ่าน หรือรหัสผิดขอให้ดูดีๆ<br />
+เพราะโปรแกรมเป็นโปรแกรมนอกแล้วทีมงานเราซื้อมาพัฒนาต่อ<br />
+ตอนจะปั้มแต่ละทีต้องดูบัตรดีๆ<br />
+ทุกครั้งตอนปั้ม<br />
+การเติม ไม่ควรเติมบัตรที่มั่วมาไม่งั้นจะบล๊อก IP นะค่ะ<br />
+^^ ควรเติม ^^<br />
+150 + 150&nbsp;<br />
+300 + 300<br />
+500 + 500<br />
+1000 + 1000<br />
+ส่วนบัตร 50-90 ท่านใดที่เติมมาระบบอาจจะประมวลผมช้า ขอให้รอนะค่ะ<br />
+อย่าเอาบัตรไปเติมที่อื่นหากยังไม่ขึ้นว่า &ldquo;</span><span style="color:#00FF00;">ผ่าน</span><span style="color: #ff0000;">&rdquo;<br />
+ถ้าเกิดปัญหาอะไรทางเราไม่รับผิดชอบนะค่ะ<br />
+ถ้าทางเราไม่ปั้มให้แปลว่า บัตรไม่ผ่าน หรือ รหัสผิด<br />
+฿฿ แจ้งID ฿฿<br />
+** ถ้าบัตรไม่ผ่านแจ้งID แล้วเติมเงินให้ผ่านภายใน 1 วัน<br />
+(ถ้าไม่เติมทางเราจะถือว่า ตัดสิทธิ์X)<br />
+** ถ้ารหัสผิดแจ้งID และ PASS ที่ MSN จะทำการปั้มให้ใหม่<br />
+ภายใต้เงื่อนไขของทางเรา<br />
+**ถ้าหากกรอกข้อมูลผิดจ่ายเพิ่ม 20% ของราคาที่ซื้อนะค่ะ<br />
+**หากหน้าเว็บแจ้งว่าปรับปรุงแล้วคุณได้เติมเงินเข้าไปแล้ว ทางเราจะไม่รับผิดชอบใดๆทั้งสิ้น<br />
+*** หากไม่ได้เลือกตัวแล้ว คลิกซื้อ ID!! หรือจ่ายไม่ครบตามที่กำหนด ทางเราจะไม่รับผิดชอบใดๆทั้งสิ้น<br />
+หรือถ้าหากยังจะเอา IDเดิมอยู่ให้ทำการแจ้งที่ Chat แล้วชำระเงิน<br />
+25% ของราคา IDที่ซื้อ<br />
+** ถ้าหากไมได้ สมัครสามาชิคเว็บแล้วคลิกซื้อไป ไม่รับผิดชอบ<br />
+**เว็บนี้รองรับ Browser Firefox เท่านั้นหากท่านใดที่ใช้ Browser อื่นแล้วมีปัญหาใดๆเิกิดขึ้นทางเราไม่รับผิดชอบใดๆทั้งสิ้น หรือถ้าหากยังจะเอา สิ่งเดิมอยู่ให้ทำการแจ้งที่ Chat แล้วชำระเงิน 20% ของราคา ที่ซื้อ<br />
+<br />
+***หากไม่ทำการเงื่อนไขข้างต้นทางเราจะไม่รับผิดชอบใดๆทั้งสิ้น&nbsp;</span><u><a href="http://www.saleidpb.myreadyweb.com"><span style="color:#FFFF00;">www.saleidpb.myreadyweb.com</span></a></u></strong><br />
+<span style="color:#FF0000;"><strong>การตัดสินใจของทางเราถือเป็นที่สิ้นสุด</strong></span></p>
+</div>
+
+<div>
+<p align="center"><script src='http://bb-ads.com/show/218'></script></p>
+</div>
+<!-- End กฏและข้อตกลงก่อนทำการซื้อ --><!-- เริ่มรูปภาพ ปั๊ม Exp Point ฉายา -->
+
+<div>
+<p align="center"><img height="400" longdesc="http://i.imgur.com/THXWIgM.jpg" src="http://i.imgur.com/THXWIgM.jpg" width="689" /></p>
+
+<p align="center"><img height="400" longdesc="http://i.imgur.com/rYb1Iam.png" src="http://i.imgur.com/rYb1Iam.png" width="689" /></p>
+
+<p align="center"><img height="400" longdesc="http://i.imgur.com/bmgUeTZ.png" src="http://i.imgur.com/bmgUeTZ.png" width="689" /></p>
+</div>
+
+<p>&nbsp;</p>
+<!-- Code โฆษณา Yengo -->
+
+<p align="center">&nbsp;</p>
+
+<p align="center">&nbsp;</p>
+
+<div style="text-align: center;"><br />
+<a href="https://www.facebook.com/toota.pbsf"><img alt="Item Code pb  2014" height="2187" src="http://i.imgur.com/UFvwdlV.png" style="width: 560px; height: 2187px;" width="560" /></a><br />
+<img alt="" height="417" src="http://i.imgur.com/lPH0uIj.gif" style="width: 800px; height: 417px;" width="800" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<iframe allowtransparency="true" frameborder="0" height="240" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fwesalepb&amp;width=750&amp;height=558&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;show_border=true&amp;header=false" style="border: none; overflow: hidden; width: 750px; height: 558px;" width="320"></iframe></div>
+
+<div style="text-align: center;"><br />
+<br />
+<a href="http://www.linkbucks.com/ec5f0100"><img height="506" src="http://i.imgur.com/O588Xt3.png" style="width: 800px; height: 600px;" width="900" /></a></div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<p>&nbsp;</p>
